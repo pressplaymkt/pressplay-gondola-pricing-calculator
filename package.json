@@ -23,5 +23,18 @@
     "eslint-config-next": "15.3.5",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pressplaymkt/pressplay-gondola-pricing-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pressplaymkt/pressplay-gondola-pricing-calculator/issues"
+  },
+  "homepage": "https://github.com/pressplaymkt/pressplay-gondola-pricing-calculator#readme"
 }
