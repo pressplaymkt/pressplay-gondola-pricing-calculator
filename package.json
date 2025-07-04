@@ -24,11 +24,11 @@
     "tailwindcss": "^4",
     "typescript": "^5"
   },
-  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
+  "description": "This is a Next.js project bootstrapped with create-next-app.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pressplaymkt/pressplay-gondola-pricing-calculator.git"
+    "url": "https://github.com/pressplaymkt/pressplay-gondola-pricing-calculator.git"
   },
   "keywords": [],
   "author": "",
